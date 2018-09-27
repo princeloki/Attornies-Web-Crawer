@@ -3,4 +3,4 @@
 
 1. Store the Files in a new folder called Attornies
 2. Create a new folder in the 'Attornies' folder called 'Files'.
-3. Run the compiled python script.
+3. Run the compiled two compiled python scripts.
